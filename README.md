@@ -1,3 +1,3 @@
-# Zoo App
+# Fly Test Puzzle
 
-[![codecov](https://codecov.io/gh/voop87/ZooApp/branch/master/graph/badge.svg?token=SKVQ8OAQG5)](https://codecov.io/gh/voop87/ZooApp)
+[![codecov](https://codecov.io/gh/voop87/FlyTestPuzzle/branch/main/graph/badge.svg?token=LPY2GYMJGC)](https://codecov.io/gh/voop87/FlyTestPuzzle)
