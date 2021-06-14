@@ -1,3 +1,3 @@
 # Fly Test Puzzle
 
-[![codecov](https://codecov.io/gh/voop87/FlyTestPuzzle/branch/main/graph/badge.svg?token=LPY2GYMJGC)](https://codecov.io/gh/voop87/FlyTestPuzzle)
+[![codecov](https://codecov.io/gh/voop87/FlyTestPuzzle/branch/master/graph/badge.svg?token=LPY2GYMJGC)](https://codecov.io/gh/voop87/FlyTestPuzzle)
