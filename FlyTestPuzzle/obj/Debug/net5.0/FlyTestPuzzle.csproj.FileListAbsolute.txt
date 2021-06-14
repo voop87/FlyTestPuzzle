@@ -1,0 +1,16 @@
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\FlyTestPuzzle.exe
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\FlyTestPuzzle.deps.json
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\FlyTestPuzzle.runtimeconfig.json
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\FlyTestPuzzle.runtimeconfig.dev.json
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\FlyTestPuzzle.dll
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\ref\FlyTestPuzzle.dll
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\bin\Debug\net5.0\FlyTestPuzzle.pdb
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.csprojAssemblyReference.cache
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.AssemblyInfoInputs.cache
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.AssemblyInfo.cs
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.csproj.CoreCompileInputs.cache
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.dll
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\ref\FlyTestPuzzle.dll
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.pdb
+F:\projects\anko-corp\FlyTestPuzzle\FlyTestPuzzle\obj\Debug\net5.0\FlyTestPuzzle.genruntimeconfig.cache

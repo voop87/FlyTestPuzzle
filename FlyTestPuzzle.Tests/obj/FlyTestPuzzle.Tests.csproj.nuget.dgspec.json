@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle.Tests\\FlyTestPuzzle.Tests.csproj": {}
+  },
+  "projects": {
+    "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle.Tests\\FlyTestPuzzle.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle.Tests\\FlyTestPuzzle.Tests.csproj",
+        "projectName": "FlyTestPuzzle.Tests",
+        "projectPath": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle.Tests\\FlyTestPuzzle.Tests.csproj",
+        "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
+        "outputPath": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle\\FlyTestPuzzle.csproj": {
+                "projectPath": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle\\FlyTestPuzzle.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.10.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle\\FlyTestPuzzle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle\\FlyTestPuzzle.csproj",
+        "projectName": "FlyTestPuzzle",
+        "projectPath": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle\\FlyTestPuzzle.csproj",
+        "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
+        "outputPath": "F:\\projects\\anko-corp\\FlyTestPuzzle\\FlyTestPuzzle\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
